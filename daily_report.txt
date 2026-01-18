@@ -1,0 +1,6 @@
+Total Revenue: 680.0
+Item Summary:
+apple -> Quantity Sold: 5 | Revenue: 1250.0
+banana -> Quantity Sold: 14 | Revenue: 3920.0
+orange -> Quantity Sold: 5 | Revenue: 750.0
+Best Selling Item by quantity: banana (14 units sold)
